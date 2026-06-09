@@ -1,18 +1,94 @@
-<div align="center">
-  <h1>Hi there, I'm a Software Engineer & AI Automation Specialist 👋</h1>
-  <p><strong>Transforming businesses through AI-driven automation and building high-performance systems.</strong></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/School-42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42">
-    <img src="https://img.shields.io/badge/Focus-AI_%26_Business_Automation-092E20?style=for-the-badge" alt="AI & Automation">
-  </p>
-</div>
+# Hi there, I'm Bruno Iniesta (elbrunis) 👋
+### Software Engineer & AI Business Automation Specialist
 
-## 👨‍💻 About Me
+<p align="left">
+  <img src="https://img.shields.io/badge/School-42_Madrid-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Madrid">
+  <img src="https://img.shields.io/badge/Specialty-Custom_Enterprise_Automation-092E20?style=for-the-badge" alt="Enterprise Automation">
+  <img src="https://img.shields.io/badge/Focus-AI_&_Advanced_Coding-blue?style=for-the-badge" alt="AI Focus">
+</p>
 
-- 🔭 Currently refining my software engineering skills at **[42](https://42.fr/)**, mastering low-level programming, algorithms, and system architecture.
-- 🤖 Specializing in **Business Automation**, leveraging Artificial Intelligence and custom code to optimize complex enterprise workflows.
-- 💡 Passionate about bridging the gap between rigorous, high-performance C/C++ architectures and modern AI solutions.
+---
+
+## 🚀 About Me
+
+- 🎓 Software Engineering student at **42 Madrid Coding School**, mastering low-level programming, complex algorithms, and system architecture.
+- 💼 **Enterprise Automation Expert:** I specialize in developing **custom automation solutions for businesses**. I combine Artificial Intelligence (AI) with tailored code to optimize complex corporate workflows, eliminate manual errors, and scale operations.
+- 💡 My goal is to bridge the gap between high-performance systems (C/C++) and cutting-edge modern technology (AI, Web Scraping, and Cloud Workflows) to build highly efficient business solutions.
+
+---
+
+## 🌟 Featured Projects
+
+Here are my top-tier projects, focusing on both high-performance software architecture and custom business automation.
+
+<table>
+  <tr>
+    <td>
+      <h3>🤖 <a href="https://github.com/elbrunis/automation-toolbox">automation-toolbox</a></h3>
+      <p><strong>Custom Process Automation for Businesses</strong></p>
+      <p>A comprehensive, tailor-made suite designed to automate repetitive enterprise tasks. Built to streamline corporate operations, integrate AI APIs, and dramatically improve business productivity by replacing manual labor with intelligent code workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Automation-Enterprise-orange?style=flat-square" alt="Automation">
+      </p>
+    </td>
+    <td>
+      <h3>🕷️ <a href="https://github.com/elbrunis/automation-data-scraping">automation-data-scraping</a></h3>
+      <p><strong>Advanced Enterprise Data Extraction</strong></p>
+      <p>An intelligent web scraping and data mining framework engineered to harvest critical business intelligence. It automates data collection pipelines from complex web architectures to feed corporate databases and AI decision-making systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Data-Scraping-red?style=flat-square" alt="Scraping">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>👾 <a href="https://github.com/elbrunis/cub3d">cub3d</a></h3>
+      <p><strong>3D Raycasting Engine</strong></p>
+      <p>A fully functional 3D graphical engine inspired by the legendary Wolfenstein 3D. Developed from scratch in C, dealing with deep mathematical calculations, parsing, raycasting logic, window management, and real-time rendering optimizations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+        <img src="https://img.shields.io/badge/Graphics-Raycasting-blueviolet?style=flat-square" alt="Raycasting">
+      </p>
+    </td>
+    <td>
+      <h3>🧠 <a href="https://github.com/elbrunis/Philosophers">Philosophers</a></h3>
+      <p><strong>Concurrency & Threads Management</strong></p>
+      <p>An advanced system programming project solving the classic Dining Philosophers problem. Focuses heavily on multi-threading, mutexes, process synchronization, and avoiding data races or deadlocks in low-level shared memory environments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+        <img src="https://img.shields.io/badge/Concurrency-Threads-yellow?style=flat-square" alt="Threads">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🔄 <a href="https://github.com/elbrunis/push_swap">push_swap</a></h3>
+      <p><strong>Highly Optimized Sorting Algorithm</strong></p>
+      <p>An algorithmic project focused on sorting data on a limited stack using the minimum possible number of operations. Implemented complex optimization strategies (like chunking, radix variants, or mechanical scoring) to achieve top-tier efficiency standards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+        <img src="https://img.shields.io/badge/Algorithms-Optimization-brightgreen?style=flat-square" alt="Algorithms">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Other Core Curriculum Projects (42 Madrid)
+
+In addition to business automation, I have built foundational computer science software:
+
+* **System & Unix Logic:** * 🔀 **[pipex](https://github.com/elbrunis/pipex)**: Simulates Unix shell pipe redirections, managing multiple processes and file descriptors.
+* **Graphics & Interactive Dev:**
+  * 🕹️ **[so_long](https://github.com/elbrunis/so_long)**: A 2D game engineered using pixel-mapping, event handling, and a custom mini-graphics library.
+* **Low-Level Libraries & Paradigms:**
+  * 🧩 **[cpp](https://github.com/elbrunis/cpp)**: A series of modules implementing advanced Object-Oriented Programming (OOP) principles in C++.
+  * 📚 **[libft](https://github.com/elbrunis/libft)**: A custom-made C standard library recoding foundational memory and string functions.
+  * 📝 **[getnextline](https://github.com/elbrunis/getnextline)**: An efficient function that parses and reads a file descriptor line-by-line without memory leaks.
+  * 🖨️ **[printf](https://github.com/elbrunis/printf)**: A complete custom implementation of the standard `printf` system function.
 
 ---
 
@@ -20,46 +96,25 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C, C++, Python, Bash |
-| **Automation & AI** | Scripting, Web Scraping, Prompt Engineering, API Integration |
-| **Concepts** | System Architecture, Data Structures, Concurrency, Object-Oriented Programming |
+| **Languages** | C, C++, Python, Bash / Shell |
+| **AI & Business Automation** | Workflow Automation, Web Scraping (BeautifulSoup, Selenium), API Integrations, Prompt Engineering |
+| **Low-Level & Algorithms** | Concurrency (Threads & Mutexes), Memory Management, Data Structures, System Calls |
 
 ---
 
-## 🚀 Portfolio & Key Projects
-
-### ⚙️ Automation & Enterprise Solutions
-Focusing on efficiency, data extraction, and AI-driven process optimization.
-* 📦 **`automation-toolbox`**: Custom toolkit designed to streamline recurring business processes and enhance productivity.
-* 🕷️ **`automation-data-scraping`**: Advanced data extraction tools built to gather intelligence and feed automated pipelines.
-
-### 🎓 42 Core Curriculum
-Rigorous projects focusing on memory management, algorithm optimization, and Unix logic.
-* **Architecture & Graphics:** 
-  * 👾 `cub3d`: A 3D raycasting graphical engine inspired by Wolfenstein 3D.
-  * 🕹️ `so_long`: A complete 2D game built with a custom graphics library.
-* **Algorithms & Concurrency:** 
-  * 🧠 `Philosophers`: Solving the dining philosophers problem using threads and mutexes.
-  * 🔄 `push_swap`: A highly optimized sorting algorithm utilizing limited stack operations.
-* **System & Unix:** 
-  * 🔀 `pipex`: A program simulating the behavior of Unix shell pipes.
-* **Core Systems & Libraries:** 
-  * 📚 `libft`: A comprehensive custom C standard library.
-  * 📝 `getnextline`: A highly efficient function to read a file line by line.
-  * 🖨️ `printf`: A fully functional recode of the standard C `printf` function.
-  * 🧩 `cpp`: Advanced Object-Oriented Programming modules in C++.
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=gray" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elbrunis&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Bruno's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbrunis&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-## 📫 Get in Touch
+## 📫 Let's Connect!
 
-- 💼 Open for collaborations, freelance projects, and roles in AI automation and software engineering.
-- 📬 Reach out via [LinkedIn](https://linkedin.com/in/your-profile) or email me directly at [your.email@example.com](mailto:your.email@example.com).
+I am always open to corporate collaborations, custom automation consulting, and software engineering opportunities.
+
+- 💼 **LinkedIn:** [Insert your LinkedIn Link here]
+- 📧 **Email:** [Insert your Professional Email here]
