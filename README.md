@@ -116,5 +116,6 @@ In addition to business automation, I have built foundational computer science s
 
 I am always open to corporate collaborations, custom automation consulting, and software engineering opportunities.
 
-- 💼 **LinkedIn:** [Insert your LinkedIn Link here]
-- 📧 **Email:** [Insert your Professional Email here]
+- 💼 **LinkedIn:** www.linkedin.com/in/bruno-iniesta-1a0715381
+
+- 📧 **Email:** brunoiniesta@gmail.com
