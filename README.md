@@ -1,4 +1,4 @@
-# Bruno Iniesta (elbrunis) 👋
+# Bruno Iniesta
 ### Software Engineer & AI Business Automation Specialist
 <p align="center">
   <img src="https://capsule-render.vercel.app/type=soft&color=1e1e2e&text=Bruno%20Iniesta&fontSize=70&fontColor=f38ba8&height=150" alt="Banner Bruno" />
