@@ -1,8 +1,5 @@
 # Bruno Iniesta
 ### Software Engineer & AI Business Automation Specialist
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=soft&color=1e1e2e&text=Bruno%20Iniesta&fontSize=70&fontColor=f38ba8&height=150" alt="Banner Bruno" />
-</p>
 <p align="left">
   <img src="https://img.shields.io/badge/School-42_Madrid-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Madrid">
   <img src="https://img.shields.io/badge/Specialty-Custom_Enterprise_Automation-092E20?style=for-the-badge" alt="Enterprise Automation">
