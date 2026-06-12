@@ -23,21 +23,21 @@ Here are my top-tier projects, focusing on both high-performance software archit
 <table>
   <tr>
     <td>
+      <h3>📈 <a href="https://github.com/elbrunis/AI-Driven-Market-Intelligence-Hub">AI-Driven-Market-Intelligence-Hub</a></h3>
+      <p><strong>AI-Powered Business & Market Insights</strong></p>
+      <p>An intelligent analytical platform engineered to process market data and generate predictive business intelligence. Leverages advanced AI models to transform raw data streams into actionable corporate strategies and real-time market insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/AI-Analytics-blue?style=flat-square" alt="AI Analytics">
+      </p>
+    </td>
+    <td>
       <h3>🤖 <a href="https://github.com/elbrunis/automation-toolbox">automation-toolbox</a></h3>
       <p><strong>Custom Process Automation for Businesses</strong></p>
       <p>A comprehensive, tailor-made suite designed to automate repetitive enterprise tasks. Built to streamline corporate operations, integrate AI APIs, and dramatically improve business productivity by replacing manual labor with intelligent code workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/Automation-Enterprise-orange?style=flat-square" alt="Automation">
-      </p>
-    </td>
-    <td>
-      <h3>🕷️ <a href="https://github.com/elbrunis/automation-data-scraping">automation-data-scraping</a></h3>
-      <p><strong>Advanced Enterprise Data Extraction</strong></p>
-      <p>An intelligent web scraping and data mining framework engineered to harvest critical business intelligence. It automates data collection pipelines from complex web architectures to feed corporate databases and AI decision-making systems.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Data-Scraping-red?style=flat-square" alt="Scraping">
       </p>
     </td>
   </tr>
@@ -62,22 +62,13 @@ Here are my top-tier projects, focusing on both high-performance software archit
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2" align="center">
       <h3>🔄 <a href="https://github.com/elbrunis/push_swap">push_swap</a></h3>
       <p><strong>Highly Optimized Sorting Algorithm</strong></p>
       <p>An algorithmic project focused on sorting data on a limited stack using the minimum possible number of operations. Implemented complex optimization strategies (like chunking, radix variants, or mechanical scoring) to achieve top-tier efficiency standards.</p>
       <p>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
         <img src="https://img.shields.io/badge/Algorithms-Optimization-brightgreen?style=flat-square" alt="Algorithms">
-      </p>
-    </td>
-    <td>
-      <h3>📈 <a href="https://github.com/elbrunis/AI-Driven-Market-Intelligence-Hub">AI-Driven-Market-Intelligence-Hub</a></h3>
-      <p><strong>AI-Powered Business & Market Insights</strong></p>
-      <p>An intelligent analytical platform engineered to process market data and generate predictive business intelligence. Leverages advanced AI models to transform raw data streams into actionable corporate strategies and real-time market insights.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/AI-Analytics-blue?style=flat-square" alt="AI Analytics">
       </p>
     </td>
   </tr>
