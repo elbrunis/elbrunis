@@ -62,7 +62,7 @@ Here are my top-tier projects, focusing on both high-performance software archit
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td>
       <h3>🔄 <a href="https://github.com/elbrunis/push_swap">push_swap</a></h3>
       <p><strong>Highly Optimized Sorting Algorithm</strong></p>
       <p>An algorithmic project focused on sorting data on a limited stack using the minimum possible number of operations. Implemented complex optimization strategies (like chunking, radix variants, or mechanical scoring) to achieve top-tier efficiency standards.</p>
@@ -71,9 +71,17 @@ Here are my top-tier projects, focusing on both high-performance software archit
         <img src="https://img.shields.io/badge/Algorithms-Optimization-brightgreen?style=flat-square" alt="Algorithms">
       </p>
     </td>
+    <td>
+      <h3>📈 <a href="https://github.com/elbrunis/AI-Driven-Market-Intelligence-Hub">AI-Driven-Market-Intelligence-Hub</a></h3>
+      <p><strong>AI-Powered Business & Market Insights</strong></p>
+      <p>An intelligent analytical platform engineered to process market data and generate predictive business intelligence. Leverages advanced AI models to transform raw data streams into actionable corporate strategies and real-time market insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/AI-Analytics-blue?style=flat-square" alt="AI Analytics">
+      </p>
+    </td>
   </tr>
 </table>
-
 ---
 
 ## 📚 Other Core Curriculum Projects (42 Madrid)
