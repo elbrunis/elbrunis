@@ -7,6 +7,7 @@
 </p>
 
 ---
+## 🛠️ Stack
 <table>
   <tr>
     <td width="150px"><b>Languages</b></td>
@@ -60,7 +61,6 @@
     </td>
   </tr>
 </table>
----
 
 ## 🚀 About Me
 
