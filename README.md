@@ -116,7 +116,7 @@ Here are my top-tier projects, focusing on both high-performance software archit
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td>
       <h3>🔄 <a href="https://github.com/elbrunis/push_swap">push_swap</a></h3>
       <p><strong>Highly Optimized Sorting Algorithm</strong></p>
       <p>An algorithmic project focused on sorting data on a limited stack using the minimum possible number of operations. Implemented complex optimization strategies (like chunking, radix variants, or mechanical scoring) to achieve top-tier efficiency standards.</p>
@@ -125,8 +125,13 @@ Here are my top-tier projects, focusing on both high-performance software archit
         <img src="https://img.shields.io/badge/Algorithms-Optimization-brightgreen?style=flat-square" alt="Algorithms">
       </p>
     </td>
-  </tr>
-</table>
+    <td>
+      <h3>🐚 <a href="https://github.com/elbrunis/minishell">minishell</a></h3>
+      <p><strong>As Beautiful as a Shell</strong></p>
+      <p>A custom, fully functional POSIX-compliant command line interpreter developed in C. Implements complex process execution pipelines, file descriptor redirection, syntax parsing, environment variable management, and signal handling control from scratch.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+        <img src="
 ---
 
 ## 📚 Other Core Curriculum Projects (42 Madrid)
