@@ -76,7 +76,7 @@ Here are my top-tier projects, focusing on both high-performance software archit
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <h3>📈 <a href="https://github.com/elbrunis/AI-Driven-Market-Intelligence-Hub">AI-Driven-Market-Intelligence-Hub</a></h3>
       <p><strong>AI-Powered Business & Market Insights</strong></p>
       <p>An intelligent analytical platform engineered to process market data and generate predictive business intelligence. Leverages advanced AI models to transform raw data streams into actionable corporate strategies and real-time market insights.</p>
@@ -85,7 +85,7 @@ Here are my top-tier projects, focusing on both high-performance software archit
         <img src="https://img.shields.io/badge/AI-Analytics-blue?style=flat-square" alt="AI Analytics">
       </p>
     </td>
-    <td>
+    <td width="50%">
       <h3>🤖 <a href="https://github.com/elbrunis/automation-toolbox">automation-toolbox</a></h3>
       <p><strong>Custom Process Automation for Businesses</strong></p>
       <p>A comprehensive, tailor-made suite designed to automate repetitive enterprise tasks. Built to streamline corporate operations, integrate AI APIs, and dramatically improve business productivity by replacing manual labor with intelligent code workflows.</p>
@@ -131,7 +131,14 @@ Here are my top-tier projects, focusing on both high-performance software archit
       <p>A custom, fully functional POSIX-compliant command line interpreter developed in C. Implements complex process execution pipelines, file descriptor redirection, syntax parsing, environment variable management, and signal handling control from scratch.</p>
       <p>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
-        <img src="
+        <img src="https://img.shields.io/badge/Shell-Systems-blue?style=flat-square" alt="Shell Systems">
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ---
 
 ## 📚 Other Core Curriculum Projects (42 Madrid)
