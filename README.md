@@ -86,12 +86,12 @@ Here are my top-tier projects, focusing on both high-performance software archit
       </p>
     </td>
     <td width="50%">
-      <h3>🤖 <a href="https://github.com/elbrunis/automation-toolbox">automation-toolbox</a></h3>
-      <p><strong>Custom Process Automation for Businesses</strong></p>
-      <p>A comprehensive, tailor-made suite designed to automate repetitive enterprise tasks. Built to streamline corporate operations, integrate AI APIs, and dramatically improve business productivity by replacing manual labor with intelligent code workflows.</p>
+      <h3>🌐 <a href="https://github.com/elbrunis/Webserv">Webserv</a></h3>
+      <p><strong>HTTP/1.1 Web Server from Scratch</strong></p>
+      <p>A non-blocking HTTP server built from scratch in C++, inspired by NGINX. Handles multiple simultaneous clients through I/O multiplexing, parses configuration files, serves static content, and supports GET, POST, DELETE methods, file uploads, and CGI execution.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Automation-Enterprise-orange?style=flat-square" alt="Automation">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/Networking-HTTP-orange?style=flat-square" alt="HTTP Networking">
       </p>
     </td>
   </tr>
